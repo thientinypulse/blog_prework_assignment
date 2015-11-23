@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [x] User can delete stories, with an alert that asks the user to confirm.
+* [ ] User can delete stories, with an alert that asks the user to confirm.
 * [ ] User can enter a search term and see all posts with titles that contain the search term.
 * [ ] User can add "tags" to a post, and filter posts by tag. 
 * [ ] There is a "navbar" that is responsive to window size similar to http://v4-alpha.getbootstrap.com/examples/navbar/. **NOTE**: This is currently buggy in Bootstrap v4 Alpha. For a workaround, look at the CodePen associater dhere: https://github.com/twbs/bootstrap/issues/18263. 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://i.imgur.com/link/to/your/gif/file.gif)
+![Video Walkthrough](http://i.imgur.com/iRKpAjI.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
